@@ -1,6 +1,6 @@
 # phys5070_sp21_tut19
 
-Welcome to tutorial 19!  This file is displayed by GitHub by default
+Welcome to Michael Reh's copy of tutorial 19!  This file is displayed by GitHub by default
 when you visit the repository, as you can see.
 
 GitHub supports Markdown (a variant called "GitHub-flavored", specifically)
